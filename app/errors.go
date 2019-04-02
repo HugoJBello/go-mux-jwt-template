@@ -2,7 +2,7 @@ package app
 
 import (
 	"net/http"
-	u "github.com/go-contacts/utils"
+	u "go-mux-jwt-template/utils"
 )
 
 var NotFoundHandler = func(next http.Handler) http.Handler {

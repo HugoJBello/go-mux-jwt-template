@@ -3,7 +3,7 @@ package models
 import (
 	"fmt"
 	"github.com/dgrijalva/jwt-go"
-	u "github.com/go-contacts/utils"
+	u "go-mux-jwt-template/utils"
 	"strings"
 	"github.com/jinzhu/gorm"
 	"os"

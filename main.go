@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/go-contacts/app"
-	"github.com/go-contacts/controllers"
+	"go-mux-jwt-template/app"
+	"go-mux-jwt-template/controllers"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"log"
